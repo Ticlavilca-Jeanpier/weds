@@ -1,0 +1,152 @@
+[
+    {
+        "nombre":"Celular Xiaomi Redmi 12C",
+        "precio": 579.00,
+        "puesto":"128GB, 4GB ram, cámara principal 50MP, frontal 5MP, 6.71”",
+        "img": "https://www.eluniverso.com/resizer/0N4XuGA_fXmiybjBqMPRtUk9Foc=/670x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/DBZH3D5UBBH5PHJTLFUCKIDX3I.jpg",
+        "link":"https://www.coolbox.pe/celular-xiaomi-redmi-12c-128gb-4gb-negro-mzb0dious/p"
+        
+        
+    },
+ 
+    {
+        "nombre":"Celular Xiaomi Redmi Note 12 Pro+ 5G",
+        "puesto":"256GB, 8GB ram, cámara principal 200 + 8 + 2MP, frontal 16MP, 6.67",
+        "img": "https://elcomercio.pe/resizer/FtzbqoJ1MedYXI7D3sJS7DDMNZ8=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/5FMITCYMXVHMVJ6MG4V62OCA2A.jpeg" ,
+        "link":"https://www.coolbox.pe/celular-xiaomi-redmi-note-12-pro-5g-128gb-4gb-45605/p"
+        
+        
+    },
+    {
+        "nombre":"Shakira",
+        "puesto":"Cantante",
+        "img": "https://www.latercera.com/resizer/MsUTkYLEzev964W1ot1oYdisRQo=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/64O3IMC5BZGQDFUYY73VVRUVGY.jpg" ,
+        "link":"https://es.wikipedia.org/wiki/Shakira"
+    
+    },
+    {
+        "nombre":"Kimberly García",
+        "puesto":"Atleta",
+        "img": "https://gestion.pe/resizer/Py729EJ2ErD68MfDIU1IsAXsvtc=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/63C2AWTU4VBVNLG2DMUOBO4YGI.jpg" ,
+        "link":"https://es.wikipedia.org/wiki/Kimberly_Garc%C3%ADa"
+    
+    },
+    {
+        "nombre":"Jorge Guerra",
+        "puesto":"Actor",
+        "img": "https://peru21.pe/resizer/Ynk9HGDIKBI94FcMvbrXPjEML70=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/7VEXJMI2J5ETNBPCPA5PFRJCVY.jpg" ,
+        "link":"https://es.wikipedia.org/wiki/Jorge_Guerra_(actor_peruano)"
+    
+    },
+
+    {
+        "nombre":"Jackie Chan",
+        "puesto":"Actor",
+        "img": "https://promdevelop.com/wp-content/uploads/2021/12/dzheki-chan-1024x643.jpg",
+        "link":"https://es.wikipedia.org/wiki/Jackie_Chan"
+    
+    },
+    {
+        "nombre":"Kim Jong",
+        "puesto":"Presidente Corea Norte",
+        "img": "https://caretas.pe/wp-content/uploads/2020/08/15978135516075.jpg" ,
+        "link":"https://es.wikipedia.org/wiki/Kim_Jong-un"
+    
+    },
+    {
+        "nombre":"Elon Musk",
+        "puesto":"Empresario, Inversor",
+        "img": "https://variety.com/wp-content/uploads/2023/02/Elon-Musk.jpg" ,
+        "link":"https://es.wikipedia.org/wiki/Elon_Musk"
+    
+    },
+    {
+        "nombre":"Mark Zuckerberg",
+        "puesto":"CEO de META",
+        "img": "https://ichef.bbci.co.uk/news/640/cpsprodpb/1088F/production/_99472776_5a29e269-ae8a-4751-9898-ea2fbf1e41d1.jpg" ,
+        "link":"https://es.wikipedia.org/wiki/Mark_Zuckerberg"
+    
+    },
+    {
+        "nombre":"Anna Delvey",
+        "puesto":"Heredera alemana",
+        "img": "https://ichef.bbci.co.uk/news/640/cpsprodpb/0306/production/_123647700_gettyimages-1142458990.jpg" ,
+        "link":"https://es.wikipedia.org/wiki/Anna_Sorokin"
+    
+    },
+    {
+        "nombre":"Celular Xiaomi Redmi 12C",
+        "precio": 579.00,
+        "puesto":"128GB, 4GB ram, cámara principal 50MP, frontal 5MP, 6.71”",
+        "img": "https://www.eluniverso.com/resizer/0N4XuGA_fXmiybjBqMPRtUk9Foc=/670x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/DBZH3D5UBBH5PHJTLFUCKIDX3I.jpg",
+        "link":"https://www.coolbox.pe/celular-xiaomi-redmi-12c-128gb-4gb-negro-mzb0dious/p"
+        
+        
+    },
+ 
+    {
+        "nombre":"Celular Xiaomi Redmi Note 12 Pro+ 5G",
+        "puesto":"256GB, 8GB ram, cámara principal 200 + 8 + 2MP, frontal 16MP, 6.67",
+        "img": "https://elcomercio.pe/resizer/FtzbqoJ1MedYXI7D3sJS7DDMNZ8=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/5FMITCYMXVHMVJ6MG4V62OCA2A.jpeg" ,
+        "link":"https://www.coolbox.pe/celular-xiaomi-redmi-note-12-pro-5g-128gb-4gb-45605/p"
+        
+        
+    },
+    {
+        "nombre":"Shakira",
+        "puesto":"Cantante",
+        "img": "https://www.latercera.com/resizer/MsUTkYLEzev964W1ot1oYdisRQo=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/64O3IMC5BZGQDFUYY73VVRUVGY.jpg" ,
+        "link":"https://es.wikipedia.org/wiki/Shakira"
+    
+    },
+    {
+        "nombre":"Kimberly García",
+        "puesto":"Atleta",
+        "img": "https://gestion.pe/resizer/Py729EJ2ErD68MfDIU1IsAXsvtc=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/63C2AWTU4VBVNLG2DMUOBO4YGI.jpg" ,
+        "link":"https://es.wikipedia.org/wiki/Kimberly_Garc%C3%ADa"
+    
+    },
+    {
+        "nombre":"Jorge Guerra",
+        "puesto":"Actor",
+        "img": "https://peru21.pe/resizer/Ynk9HGDIKBI94FcMvbrXPjEML70=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/7VEXJMI2J5ETNBPCPA5PFRJCVY.jpg" ,
+        "link":"https://es.wikipedia.org/wiki/Jorge_Guerra_(actor_peruano)"
+    
+    },
+
+    {
+        "nombre":"Jackie Chan",
+        "puesto":"Actor",
+        "img": "https://promdevelop.com/wp-content/uploads/2021/12/dzheki-chan-1024x643.jpg",
+        "link":"https://es.wikipedia.org/wiki/Jackie_Chan"
+    
+    },
+    {
+        "nombre":"Kim Jong",
+        "puesto":"Presidente Corea Norte",
+        "img": "https://caretas.pe/wp-content/uploads/2020/08/15978135516075.jpg" ,
+        "link":"https://es.wikipedia.org/wiki/Kim_Jong-un"
+    
+    },
+    {
+        "nombre":"Elon Musk",
+        "puesto":"Empresario, Inversor",
+        "img": "https://variety.com/wp-content/uploads/2023/02/Elon-Musk.jpg" ,
+        "link":"https://es.wikipedia.org/wiki/Elon_Musk"
+    
+    },
+    {
+        "nombre":"Mark Zuckerberg",
+        "puesto":"CEO de META",
+        "img": "https://ichef.bbci.co.uk/news/640/cpsprodpb/1088F/production/_99472776_5a29e269-ae8a-4751-9898-ea2fbf1e41d1.jpg" ,
+        "link":"https://es.wikipedia.org/wiki/Mark_Zuckerberg"
+    
+    },
+    {
+        "nombre":"Anna Delvey",
+        "puesto":"Heredera alemana",
+        "img": "https://ichef.bbci.co.uk/news/640/cpsprodpb/0306/production/_123647700_gettyimages-1142458990.jpg" ,
+        "link":"https://es.wikipedia.org/wiki/Anna_Sorokin"
+    
+    }
+]

@@ -1,0 +1,45 @@
+.ocultar{
+    display: none;
+}
+.mostrar{
+    display: block;
+}
+.txtbtnGoo{
+    border-radius: 50px;
+    background-color: red;
+    color: white;
+    border: 0;
+}
+.txtbtnFace{
+    border-radius: 50px;
+    background-color: rgb(27, 80, 196);
+    color: white;
+    border: 0;
+
+}
+.txtbtnRegistro{
+    border-radius: 50px;
+}
+.txtbtnIngresarr{
+    border-radius: 50px;
+    
+}
+.producto{
+    text-align: center;
+    background-color:rgb(72, 192, 82);
+    margin: 10px;
+    
+    border-color: rgb(126, 11, 11);
+
+}
+.resultado {
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+
+}
+.imgProducto{
+height: 50px;
+width: 50PX;
+
+}
